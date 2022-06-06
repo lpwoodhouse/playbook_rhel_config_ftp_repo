@@ -1,0 +1,5 @@
+---
+# default variables for rh_ftp_repo
+
+# path to device with RHEL .iso
+iso_device: /dev/sr0
