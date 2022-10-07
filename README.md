@@ -1,4 +1,9 @@
-# Ansible Role: ftp_repo
+# Ansible Playbook: rhel_config_ftp_repo
+![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/playbook_rhel_config_ftp_repo)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/playbook_rhel_config_ftp_repo)
+![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/playbook_rhel_config_ftp_repo)
+
+## Purpose
 
 Creates a package repository from a RHEL installation .iso and makes the repository accessible to clients via ftp.
 
@@ -27,7 +32,7 @@ None
 
 ## License
 
-MIT
+[![GitHub](https://img.shields.io/github/license/lpwoodhouse/playbook_rhel_config_ftp_repo)](LICENSE)
 
 ## Author Information
 
