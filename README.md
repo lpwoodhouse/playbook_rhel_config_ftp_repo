@@ -1,8 +1,10 @@
-# Ansible Playbook: rhel_config_ftp_repo
-![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/playbook_rhel_config_ftp_repo)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/playbook_rhel_config_ftp_repo)
-![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/playbook_rhel_config_ftp_repo)
-
+# RHEL 8: Configure FTP Repository
+![redhat](https://img.shields.io/badge/-RHEL%208-black?style=flat&logo=redhat&logoColor=EE0000)
+[![playbook](https://img.shields.io/badge/Ansible%20Playbook-grey?stype=flat&logo=ansible&logoColor=EE0000)](site.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/rhel_config_ftp_repo)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/rhel_config_ftp_repo)
+![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/rhel_config_ftp_repo)
+[![GitHub](https://img.shields.io/github/license/lpwoodhouse/rhel_config_ftp_repo)](LICENSE)
 ## Purpose
 
 Creates a package repository from a RHEL installation .iso and makes the repository accessible to clients via ftp.
@@ -29,10 +31,6 @@ None
       roles:
         - ftp_repo
 ```
-
-## License
-
-[![GitHub](https://img.shields.io/github/license/lpwoodhouse/playbook_rhel_config_ftp_repo)](LICENSE)
 
 ## Author Information
 
