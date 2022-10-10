@@ -1,4 +1,4 @@
-# RHEL 8: Configure FTP Repository
+# RHEL 8: Configure FTP Repositor
 ![redhat](https://img.shields.io/badge/-RHEL%208-black?style=flat&logo=redhat&logoColor=EE0000)
 [![playbook](https://img.shields.io/badge/Ansible%20Playbook-grey?stype=flat&logo=ansible&logoColor=EE0000)](site.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/rhel_config_ftp_repo)
